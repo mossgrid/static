@@ -32,3 +32,5 @@ but the src should be changed to the present widget js file
 we need to build our assets tbh, we still use alot from bmc
 
 github links to be transferred to cdn links can be uploaded here on [statically](https://statically.io/convert/)
+
+example of the popup in use is [here in my website](https://sijirama.github.io)
